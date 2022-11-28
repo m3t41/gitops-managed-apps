@@ -1,0 +1,11 @@
+{
+    "namespace": "test",
+    "server": "",
+    "path": "openshift/gitops-liarigid4",
+    "name": "liarigid4",
+    "cluster": {
+      "owner": "cluster-admin@company.com",
+      "name": "engineering-dev",
+      "address": "https://1.2.3.4"
+    }
+  }
