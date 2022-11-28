@@ -1,0 +1,3 @@
+[submodule "gitops-liarigid"]
+	path = gitops-liarigid
+	url = https://github.com/m3t41/gitops-liarigid
