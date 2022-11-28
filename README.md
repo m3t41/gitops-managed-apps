@@ -1,1 +1,0 @@
-# gitops-managed-apps
