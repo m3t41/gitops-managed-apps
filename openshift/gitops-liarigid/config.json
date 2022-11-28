@@ -1,6 +1,7 @@
 {
     "namespace": "test",
     "server": "",
+    "path": "openshift/gitops-liarigid",
     "cluster": {
       "owner": "cluster-admin@company.com",
       "name": "engineering-dev",
