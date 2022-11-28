@@ -1,0 +1,9 @@
+{
+    "namespace": "test",
+    "server": "",
+    "cluster": {
+      "owner": "cluster-admin@company.com",
+      "name": "engineering-dev",
+      "address": "https://1.2.3.4"
+    }
+  }
