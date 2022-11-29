@@ -1,7 +1,6 @@
 {
-    "namespace": "test",
-    "server": "openshift",
-    "folder": ".",
-    "name": "markus",
-    "repo": "https://github.com/m3t41/gitops-hada.git"
+    "namespace": "markus",
+    "repofolder": ".",
+    "appname": "markus",
+    "repourl": "https://github.com/m3t41/gitops-hada.git"
 }
