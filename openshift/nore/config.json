@@ -2,7 +2,7 @@
     "namespace": "test",
     "server": "",
     "folder": ".",
-    "name": "hada",
+    "name": "nore",
     "repo": "https://github.com/m3t41/gitops-hada.git",
     "cluster": {
       "owner": "cluster-admin@company.com",
