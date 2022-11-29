@@ -2,6 +2,6 @@
     "namespace": "test",
     "server": "openshift",
     "folder": ".",
-    "name": "ramiy",
+    "name": "peter",
     "repo": "https://github.com/m3t41/gitops-hada.git"
 }
