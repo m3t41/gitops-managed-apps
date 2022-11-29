@@ -1,7 +1,7 @@
 {
     "namespace": "test",
     "server": "",
-    "folder": "*",
+    "folder": "/",
     "name": "hada",
     "repo": "https://github.com/m3t41/gitops-hada.git",
     "cluster": {
