@@ -1,7 +1,7 @@
 {
     "namespace": "test",
     "server": "",
-    "path": "",
+    "path": "/",
     "name": "hada",
     "repo": "https://github.com/m3t41/gitops-hada.git",
     "cluster": {
@@ -9,4 +9,4 @@
       "name": "engineering-dev",
       "address": "https://1.2.3.4"
     }
-  }
+}
