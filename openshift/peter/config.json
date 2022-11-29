@@ -1,0 +1,7 @@
+{
+    "namespace": "test",
+    "server": "",
+    "folder": ".",
+    "name": "peter",
+    "repo": "https://github.com/m3t41/gitops-hada.git"
+}
