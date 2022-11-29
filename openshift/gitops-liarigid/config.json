@@ -1,7 +1,7 @@
 {
     "namespace": "test",
     "server": "",
-    "path": "openshift/gitops-liarigid",
+    "folder": "openshift/gitops-liarigid",
     "name": "liarigid",
     "repo": "https://github.com/m3t41/gitops-managed-apps.git",
     "cluster": {
