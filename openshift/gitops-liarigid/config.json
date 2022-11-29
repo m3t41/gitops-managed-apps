@@ -1,6 +1,6 @@
 {
-    "namespace": "test",
-    "repofolder": "openshift/gitops-liarigid",
+    "namespace": "liarigid",
+    "repofolder": ".",
     "appsetname": "liarigid",
-    "repourl": "https://github.com/m3t41/gitops-managed-apps.git"
+    "repourl": "https://github.com/m3t41/gitops-hada.git"
   }
