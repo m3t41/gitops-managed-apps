@@ -1,0 +1,7 @@
+{
+    "namespace": "test",
+    "server": "",
+    "folder": ".",
+    "name": "deploytest333",
+    "repo": "https://github.com/m3t41/gitops-hada.git"
+}
