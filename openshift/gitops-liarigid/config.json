@@ -1,12 +1,6 @@
 {
     "namespace": "test",
-    "server": "",
-    "folder": "openshift/gitops-liarigid",
-    "name": "liarigid",
-    "repo": "https://github.com/m3t41/gitops-managed-apps.git",
-    "cluster": {
-      "owner": "cluster-admin@company.com",
-      "name": "engineering-dev",
-      "address": "https://1.2.3.4"
-    }
+    "repofolder": "openshift/gitops-liarigid",
+    "appsetname": "liarigid",
+    "repourl": "https://github.com/m3t41/gitops-managed-apps.git"
   }
