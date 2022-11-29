@@ -3,6 +3,7 @@
     "server": "",
     "path": "openshift/gitops-liarigid2",
     "name": "liarigid2",
+    "repo": "https://github.com/m3t41/gitops-managed-apps.git",
     "cluster": {
       "owner": "cluster-admin@company.com",
       "name": "engineering-dev",
