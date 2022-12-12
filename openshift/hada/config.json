@@ -1,7 +1,7 @@
 {
-    "namespace": "christian",
+    "namespace": "hada",
     "repofolder": ".",
-    "appsetname": "christian",
-    "project": "pv-test",
+    "appsetname": "hada",
+    "project": "hada",
     "repourl": "https://github.com/m3t41/gitops-hada.git"
 }
