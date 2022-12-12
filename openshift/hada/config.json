@@ -2,6 +2,6 @@
     "namespace": "hada",
     "repofolder": ".",
     "appsetname": "hada",
-    "project": "hada",
+    "project": "default",
     "repourl": "https://github.com/m3t41/gitops-hada.git"
 }
